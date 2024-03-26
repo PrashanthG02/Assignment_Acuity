@@ -1,0 +1,4 @@
+fitz
+PyMuPDF
+pytesseract
+opencv-python-headless
